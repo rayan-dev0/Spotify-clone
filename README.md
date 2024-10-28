@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<hr>
-
 ## This is a simple Spotify Clone 
 
 ### Feature
